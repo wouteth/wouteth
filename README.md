@@ -1,4 +1,4 @@
-# Hey, I'm Thijs
+# Hey, I'm Wouteth
 
 Software engineer building things with TypeScript across the stack.
 
